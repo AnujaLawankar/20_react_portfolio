@@ -1,70 +1,123 @@
-# Getting Started with Create React App
+## 20_react_portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description:-
 
-In the project directory, you can run:
+1. 20_react_portfolio is a single-page application portfolio for a web developer.
 
-### `npm start`
+2. WHEN recruiter load the portfolio. THEN he will presented with a page containing a header, a section for content, and a footer.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. WHEN recruiter view the header. THEN he will presented with the anuja's name and navigation with titles corresponding to different sections of the portfolio.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. WHEN recruiter view the navigation titles. THEN he will presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
 
-### `npm test`
+5. WHEN recruiter click on a navigation title. THEN he will presented with the corresponding section below the navigation without the page reloading and that title is highlighted
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. WHEN recruiter load the portfolio the first time. THEN the About Me title and section are selected by default.
 
-### `npm run build`
+7. WHEN recruiter presented with the About Me section. THEN he will see a recent photo or avatar of the developer and a short bio.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+8. WHEN recruiter presented with the Portfolio section. THEN he will titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+9. WHEN recruiter presented with the Contact section. THEN he will get a contact form with fields for a name, an email address, and a message
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+10. WHEN recruiter move his cursor out of one of the form fields without entering text. THEN he will receive a notification that this field is required
 
-### `npm run eject`
+11. WHEN recruiter enter text into the email address field. THEN he will receive a notification if he entered an invalid email address
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+12. WHEN recruiter presented with the Resume section. THEN he will see a link to a downloadable resume and a list of the developer’s proficiencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+13. WHEN recruiter view the footer. THEN he will presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Table of Contents
 
-## Learn More
+ *  [Installation](#installation)
+ *  [URLs](#URLs)
+ *  [Assets](#Assets)
+ *  [Testing](#testing)
+ *  [License](#license)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Steps followed:-
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. First created the "New Repository" i.e "20_react_portfolio" in GitHub.
 
-### Analyzing the Bundle Size
+2. In GitBash  navigate to the repository and  to clone "20_react_portfolio" repository. Using "cd" command.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. Then used "git clone <ssh key>" of "20_react_portfolio" and clone the repository.
 
-### Making a Progressive Web App
+4. Run "code ." command to open VS.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+5. Then  created hit the command "npx create-react-app 20_react_portfolio" in terminal to create react app and README files using touch command.
 
-### Advanced Configuration
+6.  Executed the code by installing npm install and npm run build command.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+7. Write the code and run by using npm run start command.
 
-### Deployment
+8. After that, added code to GitHub by using "git add -A" command on Gitbash. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+9. Commit the code and add commit message by using "git commit -m <message>".
 
-### `npm run build` fails to minify
+10. Push the code by using "git push origin main".
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+11. All the final code push in my "20_react_portfolio" repository.
+
+
+ 
+
+## URLs:-
+Here, you can find the "20_react_portfolio" on githib pages:- 
+
+
+
+
+Here, you can find the GitHub URL:-
+
+https://github.com/AnujaLawankar/20_react_portfolio
+
+
+## Installation
+
+1. Install inquirer, please use npm i inquirer@8.2.4.
+2. npm run build
+3. npm run start
+
+
+
+
+## Testing
+
+1. Stop server by using command "ctrl c"
+2. Now restart server by using command "npm run start"
+
+
+
+## Assets:-
+
+The following images demonstrates the application's appearance:
+
+1. The landing page is the home page of React portfolio.
+
+![Website](./assets/screenshot1.png)
+
+2. About me web page with photo.
+![Website](./assets/screenshot2.png)
+
+3. Portfolio web page with six projects.
+![Website](./assets/screenshot3.png)
+
+4. Resume Download page.
+![Website](./assets/screenshot4.png)
+
+5. Contact web page.
+![Website](./assets/screenshot5.png)
+
+6. Footers with social media links icons.
+![Website](./assets/screenshot6.png)
+
+
+## License
+
+ MIT  License  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)

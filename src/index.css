@@ -22,3 +22,20 @@ code {
   background: rgb(29, 180, 252);
   background: radial-gradient(circle, rgb(29, 180, 252) 0%, rgb(255, 255, 255) 100%);
 }
+
+.fa-linkedin:hover {
+
+  color: rgb(175, 58, 37);
+
+}
+
+.fa-github:hover {
+
+  color: rgb(175, 58, 37);
+}
+
+.fa-stack-overflow:hover {
+
+  color: rgb(175, 58, 37);
+
+}
