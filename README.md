@@ -7,7 +7,7 @@
 
 2. WHEN recruiter load the portfolio. THEN he will presented with a page containing a header, a section for content, and a footer.
 
-3. WHEN recruiter view the header. THEN he will presented with the anuja's name and navigation with titles corresponding to different sections of the portfolio.
+3. WHEN recruiter view the header. THEN he will presented with the developer’s name and navigation with titles corresponding to different sections of the portfolio.
 
 4. WHEN recruiter view the navigation titles. THEN he will presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
 
@@ -68,7 +68,7 @@
  
 
 ## URLs:-
-Here, you can find the "20_react_portfolio" on githib pages:- 
+Here, you can find the "20_react_portfolio" on github pages:- 
 
 https://anujalawankar.github.io/20_react_portfolio/
 
