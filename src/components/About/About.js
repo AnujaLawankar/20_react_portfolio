@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBContainer, MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage } from 'mdb-react-ui-kit';
 import './About.css'
-//import cliff from '../../images/cliff-headshot2-sm.jpg';
+import anu from '../../images/Anuja.png';
 
 const About = () => {
     return (
@@ -9,7 +9,7 @@ const About = () => {
             <div className="d-flex justify-content-center flex-column flex-sm-row">
 
                 <MDBCard className="order-sm-2 card-picture my-4 mx-auto mx-sm-0">
-                    <MDBCardImage variant="top" className="img-fluid rounded" src="../../images/cliff-headshot2-sm.jpg" />
+                    <MDBCardImage variant="top" className="img-fluid rounded" src={anu} />
                 </MDBCard>
 
                 <MDBCard border="dark" className="order-sm-1 my-4 card-text mx-auto mx-sm-0">

@@ -12,7 +12,7 @@ import {
 import resumePic from '../../images/laptop-resume.jpg';
 
 const Resume = () => {
-    const pdfUrl = 'https://www.dropbox.com/s/9gg4m98v8e5vxhn/Cliff_Rosenberg_Resume.pdf?dl=0'
+    const pdfUrl = 'https://www.dropbox.com/home/Resume?preview=Anuja+Lawankar+%281%29.pdf'
     return (
         <MDBContainer fluid className="vh-100">
             {/* stored at "https://www.dropbox.com/s/9gg4m98v8e5vxhn/Cliff_Rosenberg_Resume.pdf?dl=0" */}
