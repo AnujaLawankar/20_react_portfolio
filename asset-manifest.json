@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/20_react_portfolio/static/css/main.f88cf7cc.css",
+    "main.js": "/20_react_portfolio/static/js/main.85498d1a.js",
+    "static/media/Grone-zone.png": "/20_react_portfolio/static/media/Grone-zone.cc1b3cb4634adc899cac.png",
+    "static/media/Anuja.png": "/20_react_portfolio/static/media/Anuja.804a0e076a7a9d679242.png",
+    "static/media/weather-dashboard.png": "/20_react_portfolio/static/media/weather-dashboard.207b3055250725193b97.png",
+    "static/media/fa-solid-900.ttf": "/20_react_portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/Drinking-fresco.png": "/20_react_portfolio/static/media/Drinking-fresco.013a0e0a3ecd90c0c064.png",
+    "static/media/home.png": "/20_react_portfolio/static/media/home.6547fa971f6e0c0e1384.png",
+    "static/media/fa-brands-400.ttf": "/20_react_portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/Tech-MVC.gif": "/20_react_portfolio/static/media/Tech-MVC.2b26ff8c31988a634fa2.gif",
+    "static/media/fa-solid-900.woff2": "/20_react_portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/J.A.T.E.png": "/20_react_portfolio/static/media/J.A.T.E.6098718f66a3d73a04b9.png",
+    "static/media/fa-brands-400.woff2": "/20_react_portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/Expressjs_note-tracker.png": "/20_react_portfolio/static/media/Expressjs_note-tracker.c1a022ef57f2d5437a2f.png",
+    "static/media/fa-regular-400.ttf": "/20_react_portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/laptop-resume.jpg": "/20_react_portfolio/static/media/laptop-resume.68ccb935e2cf6527f21d.jpg",
+    "static/media/fa-regular-400.woff2": "/20_react_portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/20_react_portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/20_react_portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/20_react_portfolio/index.html",
+    "main.f88cf7cc.css.map": "/20_react_portfolio/static/css/main.f88cf7cc.css.map",
+    "main.85498d1a.js.map": "/20_react_portfolio/static/js/main.85498d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88cf7cc.css",
+    "static/js/main.85498d1a.js"
+  ]
+}
