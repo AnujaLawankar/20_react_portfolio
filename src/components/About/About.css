@@ -1,6 +1,8 @@
 .bkgrd {
-    background: rgb(29, 180, 252);
-    background: radial-gradient(circle, rgb(29, 180, 252) 0%, rgb(255, 255, 255) 100%);
+    /* background: rgb(29, 180, 252);
+    background: radial-gradient(circle, rgb(29, 180, 252) 0%, rgb(255, 255, 255) 100%); */
+    background-image: radial-gradient(circle, #1c7fc2 0%, #009cdc 28%, #0d9ade 32%, #011840 100%);
+
 }
 
 .card-picture {
