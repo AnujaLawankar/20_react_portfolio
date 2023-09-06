@@ -86,7 +86,6 @@ https://github.com/AnujaLawankar/20_react_portfolio
 
 
 
-
 ## Testing
 
 1. Stop server by using command "ctrl c"
