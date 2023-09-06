@@ -66,8 +66,8 @@ const Portfolio = () => {
                             </MDBCardText>
                         </MDBCardBody>
                         <MDBCardFooter className="text-center">
-                            <MDBCardLink href='https://github.com/cliff-rosenberg/Streaming-Project'>Repository link</MDBCardLink>
-                            <MDBCardLink href='https://github.com/AnujaLawankar/weather-dashboardr'>Deployed app</MDBCardLink>
+                            <MDBCardLink href='https://github.com/AnujaLawankar/6-Weather-Dashboard'>Repository link</MDBCardLink>
+                            <MDBCardLink href='https://anujalawankar.github.io/6-Weather-Dashboard/'>Deployed app</MDBCardLink>
                         </MDBCardFooter>
                     </MDBCard>
                 </MDBCol>
