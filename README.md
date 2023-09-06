@@ -78,12 +78,12 @@ Here, you can find the GitHub URL:-
 https://github.com/AnujaLawankar/20_react_portfolio
 
 
+
 ## Installation
 
 1. Install inquirer, please use npm i inquirer@8.2.4.
 2. npm run build
 3. npm run start
-
 
 
 
@@ -93,6 +93,9 @@ https://github.com/AnujaLawankar/20_react_portfolio
 2. Now restart server by using command "npm run start"
 
 
+## Technology used
+
+1. React
 
 ## Assets:-
 
